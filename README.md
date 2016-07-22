@@ -1,4 +1,4 @@
-# loader-css3
+# Loader CSS
 ## Find the pure css3 loader with just some simple line of coding.
 
 ### Step:1 -  HTML
