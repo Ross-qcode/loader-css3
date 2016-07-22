@@ -1,0 +1,16 @@
+/* Ross-qcode,
+   v1.0 | loader
+   License: none (public domain)
+*/
+
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, article, aside, figure, figcaption, footer, header, hgroup, menu, nav, section, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	line-height: 1.1;
+}
+ol, ul {
+	list-style: none;
+}
