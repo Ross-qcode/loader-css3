@@ -14,8 +14,10 @@ Create a `<ul>` element, with a `<li>`. Paste this HTML code.
 ```
 
 
+### Step:2 - CSS
 
-### Step:2 - Css
+Add the given code to you project in css file.
+
 ```css
 .loader-move {
   display: inline-block;
@@ -40,4 +42,6 @@ Create a `<ul>` element, with a `<li>`. Paste this HTML code.
 
 ```
 
-### And you have done.
+### Step:3 - Save and Run your project.
+
+This is one of the loader code. For complete loader project download the complete project and use, who give you a perfect view to your user.
