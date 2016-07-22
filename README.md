@@ -1,7 +1,7 @@
 # loader-css3
 ## Find the pure css3 loader with just some simple line of coding.
 
-### HTML
+### Step:1 -  HTML
 
 Create a `<ul>` element, with a `<li>`. Paste this HTML code.
 
@@ -15,7 +15,7 @@ Create a `<ul>` element, with a `<li>`. Paste this HTML code.
 
 
 
-### Css
+### Step:2 - Css
 ```css
 .loader-move {
   display: inline-block;
