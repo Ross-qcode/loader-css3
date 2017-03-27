@@ -46,4 +46,6 @@ Add the given code to you project in css file.
 
 This is one of the loader code. For complete loader project download the complete project and use, who give you a perfect view to your user.
 
-### Live Demo At Codepen: https://codepen.io/kravisingh/pen/xqaObG
+### Live Demo At Codepen: 
+### https://codepen.io/kravisingh/pen/xqaObG
+### https://codepen.io/kravisingh/pen/LWJZGZ
